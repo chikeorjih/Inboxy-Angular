@@ -1,0 +1,1 @@
+Inboxy = Ember.Application.create();
